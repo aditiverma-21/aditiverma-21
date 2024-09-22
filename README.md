@@ -12,7 +12,7 @@ I'm a passionate software developer, currently exploring the realms of App Devel
 - 📚 Currently diving AI.
 
 ### 🎨 Fun Facts
-- I love [hobby or interest].
+- I love painting.
 - My favorite quote: *"What you seek is seeking you. -Rumi"*.
   
 <h3 align="left">💼Connect with me:</h3>
