@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🌟 Hello, World! I'm Aditi Verma🌟
+# 🌟 Hello, there! I'm Aditi Verma🌟
 
 ### 🌈 About Me
 I'm a passionate software developer, currently exploring the realms of App Development. I thrive on creativity and love turning ideas into reality!
