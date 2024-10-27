@@ -14,6 +14,7 @@ I'm a passionate software developer, currently exploring the realms of App Devel
 ### 🎨 Fun Facts
 - I love painting.
 - My favorite quote: *"What you seek is seeking you. -Rumi"*.
+  
 ### GSSOC'(24)-Ext Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -24,6 +25,9 @@ I'm a passionate software developer, currently exploring the realms of App Devel
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   </a>
 </div>
+
+### Holopin Badges
+[![An image of @aditivermaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditivermaa)](https://holopin.io/@aditivermaa)
 
 <h3 align="left">💼Connect with me:</h3>
 <p align="left">
