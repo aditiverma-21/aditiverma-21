@@ -1,37 +1,36 @@
-# 🌟 Hello, there! I'm Aditi Verma🌟
+# Yo! I'm Aditi Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### 🌈 About Me
-I'm a passionate software developer, currently exploring the realms of App Development. I thrive on creativity and love turning ideas into reality!
-
-### 🚀 Projects
-- **Artwork Copyright Website**: A website that helps artists and creators to get copyright on their work.
-- **Calculator Website**: A calculator that performs basic arithmetic operations.
-- **To Do List Website**: This project helps users to create tasks, view, edit, delete, and mark the tasks as completed.
-
-### 🌱 Learning Journey
-- 📚 Currently diving AI.
+### 🌈 About Me <img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+I'm a passionate software developer, currently exploring the realms of AI. I thrive on creativity and love turning ideas into reality!
 
 ### 🎨 Fun Facts
 - I love painting.
 - My favorite quote: *"What you seek is seeking you. -Rumi"*.
   
 ### GSSOC'(24)-Ext Badges 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; align-items:center; gap: 10px;'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /> 
+  <br>
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" />
   </a>
 </div>
 
 ### Holopin Badges
 [![An image of @aditivermaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditivermaa)](https://holopin.io/@aditivermaa)
 
-<h3 align="left">💼Connect with me:</h3>
+<h3 align="left">🔗Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditi-verma-571062227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-verma-571062227/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditi-verma-571062227/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditi Verma LinkedIn" height="30" width="40" />
+</a>
+<a href="https://x.com/aditi_verma21" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditi Verma Twitter" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
